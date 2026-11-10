@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only the launcher label lives here; all UI text is in config/Strings.kt -->
+<resources>
+    <string name="app_name">Dream Records</string>
+</resources>

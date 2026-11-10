@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Sensitive and machine-specific files
+*.keystore
+*.jks
+*.p12
+*.pem
+*.env
+.env.*
+*.log
+DreamRecords-*.apk
+*.zip
