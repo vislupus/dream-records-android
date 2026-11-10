@@ -16,13 +16,24 @@ Dream Records makes it easy to capture a dream as a voice note, revisit it later
 
 ## Screenshots
 
+<!-- Row 1: Recording, Calendar, Settings -->
 <p align="center">
-  <img src="docs/screenshots/record.jpg" width="220" alt="One-tap voice recording screen">
+  <img src="docs/screenshots/recording.jpg" width="220" alt="One-tap dream voice recorder">
   &nbsp;
-  <img src="docs/screenshots/calendar.jpg" width="220" alt="Calendar with dream entries and colored tag markers">
+  <img src="docs/screenshots/calendar.jpg" width="220" alt="Dream calendar with color-coded tags">
   &nbsp;
-  <img src="docs/screenshots/settings.jpg" width="220" alt="Language, recording timeout, and transcription settings">
+  <img src="docs/screenshots/settings.jpg" width="220" alt="Recording and AI transcription settings">
 </p>
+
+<!-- Row 2: Tags, Recording Details, Library -->
+<p align="center">
+  <img src="docs/screenshots/tags.jpg" width="220" alt="Custom tags and dream categories">
+  &nbsp;
+  <img src="docs/screenshots/record.jpg" width="220" alt="Audio playback and transcript editing">
+  &nbsp;
+  <img src="docs/screenshots/library.jpg" width="220" alt="Searchable dream recording library">
+</p>
+
 
 ## Features
 
